@@ -8,4 +8,4 @@ This was part of a university assignment to allow a user to browse through volum
 * Scaling of image with bi-linear / nearest neighbour interpolation
 
 ####Screenshot
-<img src="http://puu.sh/hyZ73/fed2a336da.jpg" width="500"/>
+<img src="https://i.imgur.com/rKyhTUD.png" width="500"/>
